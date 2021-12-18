@@ -2,7 +2,7 @@ from tkinter import *
 expression=""
 #w is my root
 w=Tk()
-w.geometry("200x200")
+w.geometry("300x200")
 w.resizable(0,0)
 w.title("Standard Calculator")
 equation = StringVar()
